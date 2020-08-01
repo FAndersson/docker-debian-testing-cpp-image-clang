@@ -1,6 +1,6 @@
 # Docker image for C++ development using Clang, based on base C++ image for Debian testing.
 
-FROM fredrikandersson/debian-testing-cpp-image-base:testing-2019-09-10
+FROM fredrikandersson/debian-testing-cpp-image-base:testing-2020-07-20
 
 RUN apt-get update --quiet --yes
 
